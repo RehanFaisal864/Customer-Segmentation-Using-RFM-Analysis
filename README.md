@@ -23,13 +23,13 @@ The dataset includes transaction-level data from an online retail store. Key col
 
 | Column Name | Description |
 |-------------|-------------|
-| InvoiceNo   | Unique ID for each transaction |
+| Invoice   | Unique ID for each transaction |
 | StockCode   | Product/item code |
 | Description | Item description |
 | Quantity    | Number of items purchased |
 | Price       | Price per item |
 | InvoiceDate | Date and time of the transaction |
-| CustomerID  | Unique ID for customer |
+| Customer ID  | Unique ID for customer |
 | Country     | Country of the customer |
 
 ---
