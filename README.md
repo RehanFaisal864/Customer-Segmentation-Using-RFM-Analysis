@@ -1,6 +1,6 @@
 # 🛍️ Customer Segmentation Using RFM Analysis
 
-This project is part of **Elevvo Pathways Task 2**, aimed at performing in-depth analysis of online retail data. The goal is to understand customer purchasing behavior, calculate revenue, and explore key trends in sales data using Python’s powerful data analysis libraries.
+This project uses RFM (Recency, Frequency, Monetary) analysis to segment customers in a real-world Online Retail dataset. It is part of the Elevvo Internship task and is made to show both technical skills and clear data storytelling.
 
 ## 📌 Objective
 
@@ -68,9 +68,9 @@ The dataset includes transaction-level data from an online retail store. Key col
 
 - **Python**
 - **Pandas** – Data manipulation
-- **Matplotlib – Data visualization
+- **Matplotlib** – Data visualization
 - **Google Colab / Jupyter Notebook** – Interactive coding environment
-- Excel (for initial data cleaning)
+- **Excel** (for initial data cleaning)
 
 ## 🚀 How to Run
 
