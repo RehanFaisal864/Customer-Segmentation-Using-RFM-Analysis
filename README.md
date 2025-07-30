@@ -53,12 +53,10 @@ The dataset includes transaction-level data from an online retail store. Key col
    - Analyzed customer spending behavior.
    - Grouped sales data by country for geographic insights.
 
-5. **Optional Visualizations (if added)**  
+5. **Visualizations**  
    - Bar charts for top products
    - Pie charts for sales by country
    - Line plots for time series sales trends
-
----
 
 ## 📈 Key Insights (Example)
 
@@ -66,16 +64,13 @@ The dataset includes transaction-level data from an online retail store. Key col
 - UK had the highest number of purchases.
 - A small group of customers generated the majority of revenue (Pareto principle).
 
----
-
-## 🧰 Technologies Used
+## 🔧 Tools & Libraries
 
 - **Python**
 - **Pandas** – Data manipulation
-- **Matplotlib / Seaborn** (optional) – Data visualization
+- **Matplotlib – Data visualization
 - **Google Colab / Jupyter Notebook** – Interactive coding environment
-
----
+- Excel (for initial data cleaning)
 
 ## 🚀 How to Run
 
